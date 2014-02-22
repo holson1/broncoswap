@@ -1,0 +1,466 @@
+html {
+	height: 100%;
+	width: 100%;
+}
+
+aside {
+	padding-top: 5px;
+	padding-left: 5px;
+	width: auto;
+	background-color: white;
+	margin: 20px;
+	font-size: 15px;
+}
+
+body 
+{
+	margin-top: 0;
+	padding: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+	font: 12px Arial, Helvetica, sans-serif;
+	color: #061C37;
+	background-color: #D8D8D8;
+}
+
+#wrapperheader {
+	width: 100%;
+	margin-bottom: 3px;
+	background-color: white;
+}
+
+#broncohead {
+	background-color: white;
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#menu {
+display: block;
+background-color: #980000;
+height: 35px;
+min-width: 1000px;
+margin-left: auto;
+margin-right: auto;
+padding: 0;
+list-style: none;
+}
+
+#page
+{
+height: 100%;
+min-width: 1000px;
+margin-bottom: 100px;
+}
+
+#content
+{
+	min-width: 400px;
+min-height: 100%;
+}
+
+
+#post_title {
+	width: 300px;
+}
+
+#account {
+position: absolute;
+display: block;
+background-color: #980000;
+height: 35px;	
+min-width: 100%;
+list-style: none;
+}
+
+#account ul {
+text-align: right;
+font-size: 12px;
+margin: 10px;
+font-weight: bold;
+}
+
+#account li
+ {
+display: inline;
+}
+
+#account a
+{
+color: #ffffff;
+text-decoration: none;
+padding: 6px;
+}
+
+#account a:hover
+{
+font-size:10px;
+font-weight: bold;
+color: #000000;
+}
+
+#return1
+{
+padding-top: 50px;
+padding-left: 100px;
+}
+#return
+{
+width:1023px;
+}
+
+#createpost
+{
+position: absolute;
+display: block;
+min-width: 1000px;
+text-align: center;
+}
+
+#post_info
+{
+position: relative;
+display: block;
+left: 400px;
+}
+
+#new_post
+{
+display: block;
+width: 1023px;
+text-align: center;
+}
+
+#about
+{
+position: relative;
+display: block;
+text-align: center;
+}
+
+#about_info
+{
+position: absolute;
+display: block;
+text-align: left;
+left: 150px;
+padding-bottom: 20px;
+}
+
+#contact
+{
+position: relative;
+display: block;
+text-align: center;
+min-width: 1000px;
+}
+
+#image
+{
+position: absolute;
+left: 300px;
+margin-top: 15px;
+border-style: solid;
+border-width: 10px;
+border-color: #980000;
+}
+
+#slogan
+{
+position: relative;
+width: 1023px;
+text-align: center;
+}
+
+#posts
+{
+position: absolute;
+left: 160px;
+display: inline;
+text-align: left;
+background-color: #580000;
+border-style: solid;
+border-width: 10px;
+border-radius: 30px;
+border-color: #ffffff;
+height: auto;
+width: 650px;
+padding-bottom: 10px;
+margin-top: 15px;
+margin-left: 20px;
+}
+
+#accountpage
+{
+width: auto;
+height: auto;;
+}
+
+#myaccount
+{
+Position: absolute;
+left: 150px;
+display: block;
+text-align: left;
+font-size: 13px;
+}
+
+
+#my_postings
+{
+position: absolute;
+left: 500px;
+display: block;
+text-align: left;
+font-size: 13px;
+border-left: 4px solid black;
+padding-left: 70px;
+padding-bottom: 50px;
+}
+
+#post_info
+{
+position: absolute;
+float: center;
+display: block;
+text-align: left;
+font-size: 15px;
+padding-top: 50px;
+}
+
+#newpost_info
+{
+position: relative;
+text-align: left;
+display: block;
+left: 350px;
+padding-top:50px;
+}
+
+#post_title
+{
+position: relative;
+left: -50px;
+font-size: 25px;
+}
+
+#post_category, #post_date, #post_condition, #post_price, #description_title, #post_contact
+{
+font-size: 18px;
+}
+
+#post_description
+{
+background-color: white;
+display; block;
+font-size: 15px;
+border-style: solid;
+border-width: 2px;
+border-color: black;
+color: black;
+padding-left: 15px;
+}
+
+
+text-align: center;
+st_category
+{
+font-size: 18px;
+}
+#ads
+{
+position: absolute;
+left: 880px;
+display: inline;
+margin-top: 20px;
+text-align: center;
+}
+
+
+#newpost
+{
+position: relative;
+display: inline;
+padding-top: 45px;
+padding-left: 150px;
+color: #980000;
+}
+
+#leftmenu {
+  background: #980000;
+float: left;
+display: inline;
+text-align: center;
+color: #ffffff;
+padding-bottom: 10px;
+padding-top:5px;
+list-style: none;
+margin-top: 15px;
+  width: 150px;
+}
+#leftmenu li {
+  font: 12px 'Lucida Sans Unicode', 'Bitstream Vera Sans', 'Trebuchet Unicode MS', 'Lucida Grande', Verdana, Helvetica, sans-serif;
+text-align: center;  
+list-style: none;
+}
+#leftmenu a {
+  background: #980000;
+  border-bottom: 1px solid #ffffff;
+  border-left: 1px solid #ffffff;
+  border-top: 1px solid #ffffff;
+padding-right: 5px;
+ color: #ccc;
+  display: block;
+  padding: 8px 12px;
+  text-decoration: none;
+  font-weight: normal;
+}
+#leftmenu a:hover {
+  background: #580000 url(images/hover.gif) left center no-repeat;
+  color: #fff;
+  padding-bottom: 8px;
+}
+
+#login
+{
+position: absolute;
+color:#980000;
+font-size:28px;
+left: 490px;
+margin-top: 10px;
+}
+
+
+
+
+#login_info
+{
+display:block;
+position: absolute;
+left: 450px;
+text-align: left;
+margin-top: 80px;
+}
+#submit
+{
+position: absolute;
+display:block;
+left: 490px;
+margin-top: 150px;
+}
+
+#signup
+{
+position: absolute;
+display:block;
+left: 500px;
+margin-top:180px;
+}
+
+#newuser_info
+{
+display:block;
+position: absolute;
+left: 440px;
+text-align: left;
+}
+
+#submit1
+{
+position: absolute;
+display:block;
+left: 500px;
+margin-top: 130px;
+}
+
+#signup1
+{
+position: absolute;
+display:block;
+left: 470px;
+margin-top:140px;
+}
+
+
+#newuser
+{
+width: 1000px;
+display:block;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+height:auto;
+color:#980000;
+font-size:28px;
+color:#980000;
+}
+
+
+#user_info
+{
+width: 1000px;
+display:block;
+text-align: center;
+margin:auto;
+height:auto;
+}
+
+#existing
+{
+display:block;
+text-align: center;
+font-size:9px;
+}
+
+.errtxt {
+	color: red;
+	font-size: 15px;
+}
+
+footer {
+	background-color: #708090;
+	position: absolute;
+	bottom: -420px;
+	text-align: center;
+	list-style: none;
+	min-width: 100%;
+	height: 70px;
+	padding-top: 30px;
+	margin-top: 30px;
+}
+
+
+#footermenu  ul
+{
+display: inline;
+}
+
+#footermenu li
+{
+padding: 0px;
+display: inline;
+
+}
+
+#footermenu a
+{
+text-align: center;
+text-decoration: none;
+color: #000000;
+font-weight: bold;
+padding-top: 18px;
+font-size: 15px;
+padding-left:13px;
+padding-right:13px;
+}
+
+#footermenu ul li  a:hover
+{
+color:#980000;
+}
+
+
+
+

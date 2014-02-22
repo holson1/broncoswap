@@ -1,0 +1,34 @@
+/* Currently not in use, but will be used for CSS update */
+
+html {
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	margin: 0px;
+	width: 100%;
+}
+
+#broncohead {
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#menu {
+	height: 5px;
+	width: 100%;
+	background-color: #852A2A;
+}
+
+#content {
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: gray;
+}
+
+#login {
+	font-size: 44px;
+}
