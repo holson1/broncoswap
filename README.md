@@ -1,7 +1,5 @@
 broncoswap
 ==========
-Test at: http://broncoswap.csproject.org
-
 BroncoSwap: A craiglist-type website where SCU students can post goods for sale.
 
 To make an account, please use the format 'name@scu.edu' for the email address, even if you don't have an scu email.
